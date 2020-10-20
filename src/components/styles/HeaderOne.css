@@ -1,0 +1,22 @@
+.header-one {
+  padding: 1%;
+  background-color: #0c1c31;
+  color: whitesmoke;
+  min-height: 40px;
+}
+
+.header-title {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.header-menu {
+  padding: 0.2%;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.header-menu-item {
+  margin-right: 6%;
+  margin-top: 1%;
+}

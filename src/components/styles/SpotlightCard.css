@@ -1,0 +1,16 @@
+.card-image-div {
+  text-align: center;
+}
+
+.card-image {
+  width: 80%;
+  height: 80%;
+}
+
+.card-container {
+  background-color: wheat;
+}
+
+.card-message {
+  padding: 20px;
+}

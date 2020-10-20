@@ -1,0 +1,21 @@
+.newsletter-div {
+  text-align: center;
+  background-color: beige;
+}
+
+.newsletter-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newsletter-text-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2%;
+}
+
+.input-email-newsletter {
+  width: 40%;
+}

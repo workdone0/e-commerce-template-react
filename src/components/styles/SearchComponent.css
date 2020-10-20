@@ -1,0 +1,15 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 60%;
+}
+
+.search-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}

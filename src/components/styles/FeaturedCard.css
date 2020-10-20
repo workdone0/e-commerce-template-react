@@ -1,0 +1,9 @@
+.featured-product-image {
+  max-width: 60%;
+  max-height: 60%;
+}
+
+.featured-card-container {
+  text-align: center;
+  margin-top: 8%;
+}

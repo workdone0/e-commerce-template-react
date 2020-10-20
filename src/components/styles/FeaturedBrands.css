@@ -1,0 +1,22 @@
+.featured-brands-div {
+  padding: 2%;
+}
+
+.icons-div {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.icons-container {
+  padding: 2%;
+}
+
+.inner-icons-container-right {
+  float: right;
+}
+
+.icon {
+  width: 30%;
+  height: 30%;
+}
